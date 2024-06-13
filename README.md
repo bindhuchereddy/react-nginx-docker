@@ -1,7 +1,5 @@
 # How to Dockerize a React App and Deploy It Easily
 
-[Source](https://mentorcruise.com/blog/post/HKdJkxER/)
-
 ## 📁 Project Structure
 
 - **frontend**: This directory contains the code for the frontend part of the project, usually a React application. It also has a `Dockerfile` and a `docker-compose.yaml` file to build and run the frontend service using Docker.
@@ -18,9 +16,3 @@ To run a project locally, you need to have Docker and Node.js installed on your 
 4. Open your browser and go to `http://localhost:3000` to see the frontend app.
 5. You can also use tools like Postman or curl to test the backend API endpoints at `http://localhost:8000/api`.
 
-## 🙌 How to Contribute
-
-I welcome any contributions or suggestions to improve the code or add new features to the projects. You can fork this repository and submit pull requests or open issues if you find any bugs or errors. You can also contact me via email at victorgrubio@gmail.com or through the blog's contact form.
-## 🙏 Thank You
-
-Thank you for visiting this repository and I hope you find it useful and interesting. If you like my projects and blog posts, please consider following me on GitHub, Twitter, or LinkedIn. You can also subscribe to my newsletter to get updates on new posts and projects. Happy coding! 😊
